@@ -1,7 +1,8 @@
 body{
-    font-family: 'Josefin Sans', sans-serif;
+   
     background: #44cceb;
     font-size: 20px;
+    color: black;
 }
 .header_div{
     background: white;
@@ -10,4 +11,9 @@ body{
 
 .img-responsive{
     width: 300px;
+}
+
+span{
+    color: black;
+    font-weight: bolder;
 }
